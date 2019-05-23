@@ -12,7 +12,7 @@ It's time to practice what we've learned about Ruby hashes. In this lab, your
 task is to implement a set of methods. Each method will require you to complete
 some basic hash creation and modification. Use `learn` and follow the test
 suite messages as you work through your solution.
-
+f
 ## Instructions
 
 1. Create a method called `new_hash` that creates and returns a new, empty
